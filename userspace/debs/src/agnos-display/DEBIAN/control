@@ -1,0 +1,10 @@
+Package: agnos-display
+Version: 0.0.1
+Section:
+Priority: optional
+Architecture: arm64
+Depends:
+Replaces: libegl1-mesa-dev, libegl1-mesa, libgles1-mesa-dev, libgles2-mesa-dev, libopencl1, ocl-icd-libopencl1, libgsl-dev, libwayland-egl1-mesa, ocl-icd-opencl-dev
+Installed-Size: 161824
+Maintainer: Robbe Derks robbe@comma.ai
+Description: AGNOS display stuff
